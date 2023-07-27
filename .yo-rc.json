@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.13.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.9.1"
+    },
+    "version": "1.17.4",
+    "libraryName": "sharepointf",
+    "libraryId": "61745e77-d22a-4d9c-b1b7-2aceae14a960",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "sharepointf",
+    "solutionShortDescription": "sharepointf description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
